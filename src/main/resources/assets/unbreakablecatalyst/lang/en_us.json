@@ -1,0 +1,12 @@
+{
+  "itemGroup.unbreakablecatalyst": "Unbreakable Catalyst",
+  "item.unbreakablecatalyst.unbreakable_catalyst": "Unbreakable catalyst",
+
+  "unbreakablecatalyst.configuration.title": "unbreakablecatalyst Configs",
+  "unbreakablecatalyst.configuration.section.unbreakablecatalyst.common.toml": "unbreakablecatalyst Configs",
+  "unbreakablecatalyst.configuration.section.unbreakablecatalyst.common.toml.title": "unbreakablecatalyst Configs",
+  "unbreakablecatalyst.configuration.items": "Item List",
+  "unbreakablecatalyst.configuration.logDirtBlock": "Log Dirt Block",
+  "unbreakablecatalyst.configuration.magicNumberIntroduction": "Magic Number Text",
+  "unbreakablecatalyst.configuration.magicNumber": "Magic Number"
+}
